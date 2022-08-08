@@ -10,3 +10,6 @@
 * *git branch* - команда, которая выводит существующие в репозитории ветви, указывая на текущую.
 
 * *git branch branch_name* - делает
+
+* *git branch brach_name*
+
