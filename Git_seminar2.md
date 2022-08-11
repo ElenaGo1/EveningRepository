@@ -12,4 +12,4 @@
 * *git branch branch_name* - делает
 
 * *git branch brach_name*
-
+Добавила строчку на локальном репозитории совмещенном с удаленным на GitHub.
